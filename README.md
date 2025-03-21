@@ -1,4 +1,4 @@
-# LaTeX Report Generator for FOSSEE Summer Fellowship
+# LaTeX Report Generator
 
 ## Overview
 This project contains a LaTeX report generator and a Python GUI application for generating technical reports. The application allows users to select sections of a LaTeX document and generate customized PDF reports.
