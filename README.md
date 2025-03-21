@@ -1,7 +1,7 @@
 # LaTeX Report Generator for FOSSEE Summer Fellowship
 
 ## Overview
-This project contains a LaTeX report generator and a Python GUI application for generating technical reports with a specific focus on FOSSEE Summer Fellowship projects. The application allows users to select sections of a LaTeX document and generate customized PDF reports.
+This project contains a LaTeX report generator and a Python GUI application for generating technical reports. The application allows users to select sections of a LaTeX document and generate customized PDF reports.
 
 ## Features
 - Interactive GUI for LaTeX document manipulation
@@ -94,8 +94,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is open source and available under the MIT License.
-
-## Acknowledgments
-- FOSSEE Project (Funded by MHRD, Government of India)
-- IIT Bombay for project support
-- Osdag FOSSEE team for technical guidance 
